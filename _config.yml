@@ -21,14 +21,14 @@ repository               : "f98lioc/yuheqin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : # 如果有头像文件名，请填写文件名，如 "profile.png"。如果没有，可以留空。
   name             : "Yuhe Qin"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Shenzhen, Guangdong"
+  pronouns         : # 可以留空
+  bio              : "I am currently an undergraduate in the Department of Mathematics at SUSTech. Previously, I was a high school student at Dalian No.24 High School. At SUSTech, I am very fortunate to be advised by Prof. Yifei Zhu. My research interests are broadly in applied mathematics. Feel free to contact me if you are interested in collaborating with me on some fun projects!"
+  location         : "Shenzhen, Guangdong, China"
   employer         : "Southern University of Science and Technology"
-  uri              : # URL
-  email            : "12211057@mail.sustech.edu.cn" 
+  uri              : "https://yuheqin.github.io"
+  email            : "12211057@mail.sustech.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
